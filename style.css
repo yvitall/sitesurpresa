@@ -28,12 +28,14 @@ p.rotulo {
 }
 
 h1 {
+    display: flex;
     color: #3db8ff;
 }
 
 h2 {
     color: #026ba8;
     font-size: 20px;
+    display: flex;
 }
 
 .links {
