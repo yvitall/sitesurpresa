@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #3db8ff;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    width: 560px;
+    margin: auto;
+    display: center;
+    padding: 20px;
+}
+
+p.rotulo {
+    font-size: 10px;
+    color: #ff0000;
+
+}
+
+.galeria {
+    display: flex;
+    height: 300px;
+    gap: 10px;
+    overflow-x: auto;
+}
+
+h1 {
+    color: #3db8ff;
+}
+
+h2 {
+    color: #026ba8;
+    font-size: 20px;
+}
+
+.links {
+    color: #3db8ff;
+}
